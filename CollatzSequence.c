@@ -8,13 +8,13 @@
 /* the function return number based on even/odd test*/
 int test(unsigned int x)
 {
-    /* write your code here*/
+    //Should only perform the collatz functionality.
 }
 
 /* the function return the length of the sequnce*/
 int count_length(unsigned int x)
 {
-    /* write your code here*/
+    //Should call test with x: x = test(x). While x != 1, call test.
 }
 
 int main(int argc, char* argv[])
