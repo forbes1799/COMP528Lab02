@@ -10,7 +10,6 @@
 
 # Specific course queue, exclusive use (for timings), max 1 min wallclock time
 #SBATCH -p course
-#SBATCH --exclusive
 #SBATCH -t 1
 
 # load modules
